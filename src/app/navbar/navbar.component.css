@@ -1,0 +1,8 @@
+a{
+    color:#fff;
+    padding:10px;
+}
+a:hover {
+    color:rgba(186, 192, 197, 0.808);
+    padding:10px;
+}

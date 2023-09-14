@@ -1,0 +1,28 @@
+.img-container{
+    margin:auto;
+    box-shadow: #555 1px 1px 8px 1px;
+    height:25rem;
+    width:35rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+#caption{
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1rem;
+    color:#222;
+    border:1px solid #bbb;
+    width:33rem;
+}
+img{
+    width:35rem;
+    height: 25rem;
+    margin: auto;
+    padding: 1rem;
+    align-content: center;
+}
+.caption-row{
+    padding:1.5rem;
+    text-align: center;
+}
